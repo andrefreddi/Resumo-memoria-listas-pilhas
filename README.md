@@ -43,12 +43,12 @@
 
 <p>
 &nbsp &nbsp &nbsp Para nesse caso, remover o <strong>elemento 01</strong>, primeiramente retiramos ele da lista, e devemos fazer com que <strong>elemento 03</strong> aponte para <strong>elemento 02</strong>, sendo assim <strong>elemento 03</strong> o anterior do elemento removido e <strong>elemento 02</strong> o sucessor, após isso podemos aplicar o <strong>free()</strong> para por fim excluir o <strong>elemento 01</strong> e liberar a memória.
-</p><strong>
+</p>
 
 ### Pilhas
 
 <p>
-&nbsp &nbsp &nbsp A pilha nada mais é que uma forma de organizar e usar dados,e para podermos imaginar melhor como funciona podemos imaginar uma pilha de pratos, onde o ultimo prato a ser adicionado a pilha sera o primeiro, no caso ele esta sempre no topo.
+&nbsp &nbsp &nbsp A pilha nada mais é que uma forma de organizar e usar dados,e para podermos imaginar melhor como funciona podemos imaginar uma pilha de pratos, onde o ultimo prato a ser adicionado a pilha sera o primeiro, no caso ele esta sempre no topo, e para essa regra damos a definicao do LIFO - Last In, First Out, ou seja, o último a entrar é o primeiro a sair da estrutura.
 <br>
 <strong> &nbsp &nbsp &nbsp  "Os últimos serão primeiros, e os primeiros serão últimos" - Mateus 20</strong>
 </p>
