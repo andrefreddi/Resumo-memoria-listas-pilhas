@@ -34,7 +34,7 @@
 ![](ex06.png)
 
 <p>
-Primeiramente devemos remover o elemento desejado de nossa lista, como dito nesse caso o primeiro elemento, com nome de <strong>“Elemento 03”</strong>, após isso nossa lista está sem o <strong>Elemento 03</strong>, mas ainda não podemos dar um <strong>Free ()</strong>, pois ainda ele não definimos onde está nosso início, devemos então fazer com que nosso início aponte para o novo elemento a ser denominado como primeiro, neste caso irá ser o <strong>“Elemento 01”</strong>, agora temos nossa lista completa e fechada novamente, mas ainda temos sobrando na memória o <strong>Elemento 03</strong> que foi removido, para excluir ele e liberar essa memória devemos utilizar o <strong>free()</strong>. Caso a necessidade seja excluir um elemento no meio da lista o procedimento é muito parecido, vamos usar como exemplo a lista com os 03 elementos, vamos dizer que eu queria <strong>remover o elemento</strong> cujo o nome seja <strong>“Elemento 01”</strong> que está no <strong>meio da lista</strong>, eu preciso fazer com que o anterior desse elemento aponte para o seu próximo elemento, veja:
+&nbsp &nbsp &nbsp Primeiramente devemos remover o elemento desejado de nossa lista, como dito nesse caso o primeiro elemento, com nome de <strong>“Elemento 03”</strong>, após isso nossa lista está sem o <strong>Elemento 03</strong>, mas ainda não podemos dar um <strong>Free ()</strong>, pois ainda ele não definimos onde está nosso início, devemos então fazer com que nosso início aponte para o novo elemento a ser denominado como primeiro, neste caso irá ser o <strong>“Elemento 01”</strong>, agora temos nossa lista completa e fechada novamente, mas ainda temos sobrando na memória o <strong>Elemento 03</strong> que foi removido, para excluir ele e liberar essa memória devemos utilizar o <strong>free()</strong>. Caso a necessidade seja excluir um elemento no meio da lista o procedimento é muito parecido, vamos usar como exemplo a lista com os 03 elementos, vamos dizer que eu queria <strong>remover o elemento</strong> cujo o nome seja <strong>“Elemento 01”</strong> que está no <strong>meio da lista</strong>, eu preciso fazer com que o anterior desse elemento aponte para o seu próximo elemento, veja:
 </p>
 
 ![](ex08.png)
@@ -42,13 +42,13 @@ Primeiramente devemos remover o elemento desejado de nossa lista, como dito ness
 ![](ex10.png)
 
 <p>
-Para nesse caso, remover o <strong>elemento 01</strong>, primeiramente retiramos ele da lista, e devemos fazer com que <strong>elemento 03</strong> aponte para <strong>elemento 02</strong>, sendo assim <strong>elemento 03</strong> o anterior do elemento removido e <strong>elemento 02</strong> o sucessor, após isso podemos aplicar o <strong>free()</strong> para por fim excluir o <strong>elemento 01</strong> e liberar a memória.
+&nbsp &nbsp &nbsp Para nesse caso, remover o <strong>elemento 01</strong>, primeiramente retiramos ele da lista, e devemos fazer com que <strong>elemento 03</strong> aponte para <strong>elemento 02</strong>, sendo assim <strong>elemento 03</strong> o anterior do elemento removido e <strong>elemento 02</strong> o sucessor, após isso podemos aplicar o <strong>free()</strong> para por fim excluir o <strong>elemento 01</strong> e liberar a memória.
 </p><strong>
 
 ### Pilhas
 
 <p>
-  A pilha nada mais é que uma forma de organizar e usar dados,e para podermos imaginar melhor como funciona podemos imaginar uma pilha de pratos, onde o ultimo prato a ser adicionado a pilha sera o primeiro, no caso ele esta sempre no topo.
+&nbsp &nbsp &nbsp A pilha nada mais é que uma forma de organizar e usar dados,e para podermos imaginar melhor como funciona podemos imaginar uma pilha de pratos, onde o ultimo prato a ser adicionado a pilha sera o primeiro, no caso ele esta sempre no topo.
 <br>
-  <strong>Os últimos serão primeiros, e os primeiros serão últimos</strong>
+<strong> &nbsp &nbsp &nbsp  "Os últimos serão primeiros, e os primeiros serão últimos" - Mateus 20</strong>
 </p>
