@@ -24,3 +24,11 @@
 
 ![](ex03.png)
 ![](ex04.png)
+
+<p>
+&nbsp &nbsp &nbsp Assim podemos adicionar um elemento ao início da lista, fazendo com que o nosso elemento novo aponte para o antigo primeiro elemento, e claro, o início aponte para o novo elemento. Mas caso a necessidade seja <strong> excluir um elemento da lista </strong>, devemos fazer com que o elemento desejado a ser excluído primeiramente não aponte para nada, no meu exemplo seria o “Lixo”, neste exemplo irei excluir o primeiro elemento, vou usar o do exemplo anterior, com o elemento 03 como primeiro:
+</p>
+
+![](ex05.png)
+![](ex06.png)
+![](ex07.png)
