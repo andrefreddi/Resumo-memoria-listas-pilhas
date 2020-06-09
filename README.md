@@ -39,7 +39,7 @@ Primeiramente devemos remover o elemento desejado de nossa lista, como dito ness
 
 ![](ex08.png)
 ![](ex09.png)
-![](ex010.png)
+![](ex10.png)
 
 <p>
 Para nesse caso, remover o <strong>elemento 01</strong>, primeiramente retiramos ele da lista, e devemos fazer com que <strong>elemento 03</strong> aponte para <strong>elemento 02</strong>, sendo assim <strong>elemento 03</strong> o anterior do elemento removido e <strong>elemento 02</strong> o sucessor, após isso podemos aplicar o <strong>free()</strong> para por fim excluir o <strong>elemento 01</strong> e liberar a memória.
