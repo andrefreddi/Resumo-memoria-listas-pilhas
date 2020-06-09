@@ -19,7 +19,7 @@
 ![](ex02.png)
 
 <p>
-&nbsp &nbsp &nbsp Assim podemos visualizar como seria feita uma adição de um elemento ao final de uma lista, mas caso a fosse uma <strong> adição ao começo da lista <strong> iríamos fazer com que o Início aponte para o novo elemento e o novo elemento aponte para o elemento 01 já na lista, veja o exemplo:
+&nbsp &nbsp &nbsp Assim podemos visualizar como seria feita uma adição de um elemento ao final de uma lista, mas caso a fosse uma <strong> adição ao começo da lista </strong> iríamos fazer com que o Início aponte para o novo elemento e o novo elemento aponte para o elemento 01 já na lista, veja o exemplo:
 </p>
 
 ![](ex03.png)
