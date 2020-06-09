@@ -17,3 +17,10 @@
 
 ![](ex01.png)
 ![](ex02.png)
+
+<p>
+ Assim podemos visualizar como seria feita uma adição de um elemento ao final de uma lista, mas caso a fosse uma adição ao começo da lista iríamos fazer com que o Início aponte para o novo elemento e o novo elemento aponte para o elemento 01 já na lista, veja o exemplo:
+</p>
+
+![](ex03.png)
+![](ex04.png)
