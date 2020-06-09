@@ -53,6 +53,6 @@
 <strong> &nbsp &nbsp &nbsp"Os últimos serão primeiros, e os primeiros serão últimos"</strong>
 </p>
 <p>
-Para termos acesso ao ultimo prato da pilha, devemos primeiro remover todos que estao acima dele, removendo os um por um, ate chegar no prato desejado. Para o manuseio das pilhas sao usados algumas funções como <strong>Push</strong> que tem como objetivo de adicionar um objeto novo a pilha e <strong>Pop</strong> que remove um objeto da pilha, desempilhando o que esta no topo.
+&nbsp &nbsp &nbspPara termos acesso ao ultimo prato da pilha, devemos primeiro remover todos que estao acima dele, removendo os um por um, ate chegar no prato desejado. Para o manuseio das pilhas sao usados algumas funções como <strong>Push</strong> que tem como objetivo de adicionar um objeto novo a pilha e <strong>Pop</strong> que remove um objeto da pilha, desempilhando o que esta no topo.
 </p>
 
