@@ -15,5 +15,5 @@
 &nbsp &nbsp &nbsp Para listas encadeadas temos diversas interações, umas delas adicionar um elemento ao fim da lista, para isso temos que fazer com que nosso último elemento, cujo aquele que aponta para <strong>NULL</strong> aponte para nosso novo elemento e nosso novo elemento aponta para <strong>NULL</strong>, vemos um exemplo com, um início, 2 elementos e um elemento a ser adicionado e <strong>NULL<strong/>:
 </p>
 
-!(ex01.png)
-!(ex02.png)
+![](ex01.png)
+![](ex02.png)
